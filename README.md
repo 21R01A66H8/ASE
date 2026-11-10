@@ -1,13 +1,7 @@
 main.c
 
 
-/*
- *	Project Owner	: TU Chemnitz
- *	Project Name	: ASE Tutorial Unit-1
- *	File Name		: main.c
- *	Author			: ASE Admin
- *  Created on		: 25 Feb 2024
- */
+
 
 /* Includes ******************************************************************/
 #include "init.h"
@@ -242,13 +236,7 @@ void PIT_Channel_3(void)
 
 siu.c
 
-/*
- *	Project Owner	: TU Chemnitz
- *	Project Name	: ASE Tutorial Unit-2
- *	File Name		: siu.c
- *	Author			: ASE Admin
- *  Created on		: 25 Feb 2024
- */
+
 
 /* Includes ******************************************************************/
 #include "siu.h"
@@ -296,13 +284,7 @@ void SIU_Init(void)
 }
 
 siu.h
-/*
- *	Project Owner	: TU Chemnitz
- *	Project Name	: ASE Tutorial Unit-2
- *	File Name		: siu.h
- *	Author			: ASE Admin
- *  Created on		: 25 Feb 2024
- */
+
 
 #ifndef SIU_H_
 #define SIU_H_
